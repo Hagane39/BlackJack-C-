@@ -1,1 +1,1 @@
--IC:/Users/frank/CLionProjects/BlackJack/. -IC:/Users/frank/CLionProjects/BlackJack/Class -IC:/Users/frank/CLionProjects/BlackJack/Class/Cpp_Files -IC:/Users/frank/CLionProjects/BlackJack/Class/Header_Files
+-I"C:/Users/frank/CLionProjects/BlackJack-C-/BlackJack/." -I"C:/Users/frank/CLionProjects/BlackJack-C-/BlackJack/Class" -I"C:/Users/frank/CLionProjects/BlackJack-C-/BlackJack/Class/Cpp_Files" -I"C:/Users/frank/CLionProjects/BlackJack-C-/BlackJack/Class/Header_Files"
