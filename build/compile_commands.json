@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Card.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Card.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Card.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Card.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Deck.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Deck.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Deck.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Deck.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Game.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Game.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Game.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Game.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/GenericPlayer.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/GenericPlayer.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/GenericPlayer.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/GenericPlayer.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Hand.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Hand.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Hand.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Hand.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/House.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/House.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/House.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/House.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Player.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Player.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Player.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Player.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Overload_Card.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Overload_Card.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Overload_Card.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Overload_Card.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/Class/Cpp_Files/Overload_Player.cpp.o -c /workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Overload_Player.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files/Overload_Player.cpp",
+  "output": "CMakeFiles/BlackJack.dir/Class/Cpp_Files/Overload_Player.cpp.o"
+},
+{
+  "directory": "/workspaces/BlackJack-C-/build",
+  "command": "/usr/bin/g++  -I/workspaces/BlackJack-C-/BlackJack/. -I/workspaces/BlackJack-C-/BlackJack/Class -I/workspaces/BlackJack-C-/BlackJack/Class/Cpp_Files -I/workspaces/BlackJack-C-/BlackJack/Class/Header_Files -g -std=gnu++11 -o CMakeFiles/BlackJack.dir/main.cpp.o -c /workspaces/BlackJack-C-/BlackJack/main.cpp",
+  "file": "/workspaces/BlackJack-C-/BlackJack/main.cpp",
+  "output": "CMakeFiles/BlackJack.dir/main.cpp.o"
+}
+]
